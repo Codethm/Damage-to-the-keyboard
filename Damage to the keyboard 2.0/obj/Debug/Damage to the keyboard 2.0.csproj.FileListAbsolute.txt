@@ -1,0 +1,18 @@
+c:\users\paikuy\documents\visual studio 2017\Projects\Damage to the keyboard 2.0\Damage to the keyboard 2.0\bin\Debug\Damage to the keyboard 2.0.exe.config
+c:\users\paikuy\documents\visual studio 2017\Projects\Damage to the keyboard 2.0\Damage to the keyboard 2.0\bin\Debug\Damage to the keyboard 2.0.exe
+c:\users\paikuy\documents\visual studio 2017\Projects\Damage to the keyboard 2.0\Damage to the keyboard 2.0\bin\Debug\Damage to the keyboard 2.0.pdb
+c:\users\paikuy\documents\visual studio 2017\Projects\Damage to the keyboard 2.0\Damage to the keyboard 2.0\obj\Debug\Damage to the keyboard 2.0.csprojResolveAssemblyReference.cache
+c:\users\paikuy\documents\visual studio 2017\Projects\Damage to the keyboard 2.0\Damage to the keyboard 2.0\obj\Debug\Damage_to_the_keyboard_2._0.Form1.resources
+c:\users\paikuy\documents\visual studio 2017\Projects\Damage to the keyboard 2.0\Damage to the keyboard 2.0\obj\Debug\Damage_to_the_keyboard_2._0.Properties.Resources.resources
+c:\users\paikuy\documents\visual studio 2017\Projects\Damage to the keyboard 2.0\Damage to the keyboard 2.0\obj\Debug\Damage to the keyboard 2.0.csproj.GenerateResource.Cache
+c:\users\paikuy\documents\visual studio 2017\Projects\Damage to the keyboard 2.0\Damage to the keyboard 2.0\obj\Debug\Damage to the keyboard 2.0.exe
+c:\users\paikuy\documents\visual studio 2017\Projects\Damage to the keyboard 2.0\Damage to the keyboard 2.0\obj\Debug\Damage to the keyboard 2.0.pdb
+C:\Users\petch\Desktop\Damage to the keyboard 2.0\Damage to the keyboard 2.0\bin\Debug\Damage to the keyboard 2.0.exe.config
+C:\Users\petch\Desktop\Damage to the keyboard 2.0\Damage to the keyboard 2.0\bin\Debug\Damage to the keyboard 2.0.exe
+C:\Users\petch\Desktop\Damage to the keyboard 2.0\Damage to the keyboard 2.0\bin\Debug\Damage to the keyboard 2.0.pdb
+C:\Users\petch\Desktop\Damage to the keyboard 2.0\Damage to the keyboard 2.0\obj\Debug\Damage to the keyboard 2.0.csprojResolveAssemblyReference.cache
+C:\Users\petch\Desktop\Damage to the keyboard 2.0\Damage to the keyboard 2.0\obj\Debug\Damage_to_the_keyboard_2._0.Form1.resources
+C:\Users\petch\Desktop\Damage to the keyboard 2.0\Damage to the keyboard 2.0\obj\Debug\Damage_to_the_keyboard_2._0.Properties.Resources.resources
+C:\Users\petch\Desktop\Damage to the keyboard 2.0\Damage to the keyboard 2.0\obj\Debug\Damage to the keyboard 2.0.csproj.GenerateResource.Cache
+C:\Users\petch\Desktop\Damage to the keyboard 2.0\Damage to the keyboard 2.0\obj\Debug\Damage to the keyboard 2.0.exe
+C:\Users\petch\Desktop\Damage to the keyboard 2.0\Damage to the keyboard 2.0\obj\Debug\Damage to the keyboard 2.0.pdb
